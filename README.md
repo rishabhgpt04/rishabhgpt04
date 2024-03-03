@@ -1,4 +1,4 @@
-![Header](./github-header-image.png)
+
 
 <h1 align="center">Hi 👋, I'm Rishabh</h1>
 <h3 align="center">Django Fullstack Developer | Crafting Robust & Scalable Web Solutions with a Passion for Python-Driven Innovation</h3>
