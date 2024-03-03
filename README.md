@@ -17,7 +17,7 @@
 
 - 📄 Know about my experiences [https://azure-bernita-52.tiiny.site/](https://azure-bernita-52.tiiny.site/)
 
-- ⚡ Fun fact **🚀 Fun Fact: I named my pet python Django because it's just as versatile and dynamic as my favorite web framework.🐍💻**
+- **🚀 Fun Fact: I named my pet python Django because it's just as versatile and dynamic as my favorite web framework.🐍💻**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
