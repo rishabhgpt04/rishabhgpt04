@@ -13,7 +13,7 @@
 
 - 🌱 I’m currently learning **Django**
 
-- 💬 Ask me about **react**
+- 💬 Ask me about **DSA, Python, Django ,React**
 
 - 📫 How to reach me **rishabhgpt04@gmail.com**
 
