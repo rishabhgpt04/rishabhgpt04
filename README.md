@@ -25,7 +25,7 @@
 <p align="left">
 <a href="https://linkedin.com/in/rishabh-gupta-772b89136" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="rishabh-gupta-772b89136" height="30" width="40" /></a>
 <a href="https://codeforces.com/profile/aceofspade1" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="aceofspade1" height="30" width="40" /></a>
-<a href="https://www.codechef.com/users/kalimaster" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/code-chef.svg" alt="aceofspade1" height="30" width="40" /></a>
+<a href="https://www.codechef.com/users/kalimaster" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="aceofspade1" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/aceofspade1" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="aceofspade1" height="30" width="40" /></a>
 </p>
 
